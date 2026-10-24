@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-   <img width="1084" height="411" alt="banner" src="https://github.com/user-attachments/assets/f882cb9f-08ee-4c81-96a3-69ac84445784" />
+<img width="2048" height="768" alt="ChatGPT Image Oct 1, 2026, 03_49_26 PM" src="https://github.com/user-attachments/assets/e7facfa9-d524-4b3b-b32a-f238ecda2099" />
 </p>
 
 <h1 align="center">
@@ -161,4 +161,3 @@
   <br />
   <i>Let's build something amazing together.</i>
 </p>
-<img width="2048" height="768" alt="ChatGPT Image Oct 1, 2026, 03_49_26 PM" src="https://github.com/user-attachments/assets/e7facfa9-d524-4b3b-b32a-f238ecda2099" />
