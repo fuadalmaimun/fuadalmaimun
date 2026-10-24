@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-<img width="2048" height="768" alt="ChatGPT Image Oct 1, 2026, 03_49_26 PM" src="https://github.com/user-attachments/assets/e7facfa9-d524-4b3b-b32a-f238ecda2099" />
+<img widt<img width="2048" height="768" alt="Neon Full Stack Developer Banner" src="https://github.com/user-attachments/assets/bca1df5e-59ff-4dee-aa73-e1546b6f3a2b" />
 </p>
 
 <h1 align="center">
@@ -123,21 +123,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=FuadAlMaimun-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=fuadalmaimun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=FuadAlMaimun-1&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=fuadalmaimun&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadAlMaimun-1&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadalmaimun&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
