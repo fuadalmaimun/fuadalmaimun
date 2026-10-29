@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">
-  👋 Hi, I'm <a href="https://github.com/FuadAlMaimun-1"><b>Fuad Al Maimun</b></a>
+  👋 Hi, I'm <a href="https://github.com/fuadalmaimun"><b>Fuad Al Maimun</b></a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/FuadAlMaimun-1">
+  <a href="https://github.com/fuadalmaimun">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Full+Stack+Engineer;MERN+Stack+%26+Next.js+Developer;Problem+Solver+%26+Continuous+Learner" 
       alt="Typing SVG" 
@@ -84,23 +84,23 @@
 
 ## 💡 What I Can Build
 
-| Application Type                 | Features & Capabilities                                |
-| :------------------------------- | :----------------------------------------------------- |
-| 🌐 **Full-Stack Web Apps**       | Scalable applications with Next.js & MERN              |
-| 🛒 **E-commerce Platforms**      | Products, filtering, cart, checkout & payments         |
-| 🔐 **Authentication Systems**    | Login, sessions, OAuth & authorization                 |
-| 📊 **Dashboards & Admin Panels** | Analytics, charts, CRUD & data management              |
-| 🔌 **RESTful APIs**              | Validation, error handling & scalable API architecture |
+| Application Type | Key Features & Architecture |
+| :--- | :--- |
+| 🌐 **Full-Stack Web Applications** | Modern, scalable MERN & Next.js apps with seamless UI/UX |
+| 🏆 **E-Commerce & Marketplaces** | Product filtering, dynamic cart, order/booking management & payment flows |
+| 🔐 **Authentication & Security** | Secure JWT handling, JWKS validation, OAuth & protected routes |
+| 📊 **Interactive Dashboards** | Complex CRUD management, data analytics & responsive admin panels |
+| 🔌 **Robust REST APIs** | Modular architecture, request validation, CORS & optimized database queries |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Urban Vibe — E-commerce Application
+### ✈️ Wanderlust — Travel & Destination Platform
 
-> A modern e-commerce application featuring product browsing, dynamic cart management, and checkout functionality.
+> A comprehensive travel booking and destination management platform allowing users to explore unique locations, manage bookings, and handle secure operations.
 
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `React Router`
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
@@ -110,6 +110,13 @@
 
 **Tech Stack:** `React` `TypeScript` `Tailwind CSS`
 
+---
+
+### 💼 Personal Portfolio — Developer Showcase
+
+> A modern developer portfolio showcasing technical skills, projects, experience, and contact information.
+
+**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 ---
 
 ### 💼 Personal Portfolio — Developer Showcase
