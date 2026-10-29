@@ -1,6 +1,5 @@
 <p align="center">
-  <img 
-<img widt<img width="2048" height="768" alt="Neon Full Stack Developer Banner" src="https://github.com/user-attachments/assets/bca1df5e-59ff-4dee-aa73-e1546b6f3a2b" />
+  <img width="100%" alt="Neon Full Stack Developer Banner" src="https://github.com/user-attachments/assets/bca1df5e-59ff-4dee-aa73-e1546b6f3a2b" />
 </p>
 
 <h1 align="center">
@@ -46,19 +45,20 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 🚀 About Me
 
-* 💻 **Full Stack Engineer** specializing in modern web technologies.
-* ⚛️ Building interactive and responsive interfaces with **React.js** & **Next.js**.
-* 🟦 Writing clean and maintainable code with **JavaScript (ES6+)** & **TypeScript**.
-* 🖥️ Building backend services and REST APIs with **Node.js** & **Express.js**.
-* 🗄️ Working with **MongoDB**, **PostgreSQL**, and **MySQL**.
-* 🔐 Implementing authentication, authorization, and secure session management.
-* 🚀 **Currently Exploring:** Advanced Next.js App Router, Server Actions & performance optimization.
-* 🧩 Passionate about reusable components, modular architecture, and clean code.
-* 🐛 Enjoy debugging, optimization, and solving real-world problems.
+- 💻 **Full Stack Engineer** specializing in modern web technologies.
+- ⚛️ Building interactive and responsive interfaces with **React.js** & **Next.js**.
+- 🟦 Writing clean and maintainable code with **JavaScript (ES6+)** & **TypeScript**.
+- 🖥️ Building backend services and REST APIs with **Node.js** & **Express.js**.
+- 🗄️ Working with **MongoDB**, **PostgreSQL**, and **MySQL**.
+- 🔐 Implementing authentication, authorization, and secure session management.
+- 🚀 **Currently Exploring:** Advanced Next.js App Router, Server Actions & performance optimization.
+- 🧩 Passionate about reusable components, modular architecture, and clean code.
+- 🐛 Enjoy debugging, optimization, and solving real-world problems.
 
 ---
 
@@ -89,14 +89,22 @@
 | Application Type | Key Features & Architecture |
 | :--- | :--- |
 | 🌐 **Full-Stack Web Applications** | Modern, scalable MERN & Next.js apps with seamless UI/UX |
-| 🏆 **E-Commerce & Marketplaces** | Product filtering, dynamic cart, order/booking management & payment flows |
-| 🔐 **Authentication & Security** | Secure JWT handling, JWKS validation, OAuth & protected routes |
+| 🏆 **Sports & Marketplaces** | Dynamic product catalog, category filters, cart & checkout management |
+| 🔐 **Authentication & Security** | Secure JWT handling, OAuth, role-based authorization & protected routes |
 | 📊 **Interactive Dashboards** | Complex CRUD management, data analytics & responsive admin panels |
 | 🔌 **Robust REST APIs** | Modular architecture, request validation, CORS & optimized database queries |
 
 ---
 
 ## 📌 Featured Projects
+
+### 🏆 Sports-Nest — Sports Equipment Marketplace
+
+> A full-stack sports equipment e-commerce & inventory platform featuring dynamic product filtering, booking management, and secure APIs.
+
+**Tech Stack:** `React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+---
 
 ### ✈️ Wanderlust — Travel & Destination Platform
 
@@ -119,15 +127,9 @@
 > A modern developer portfolio showcasing technical skills, projects, experience, and contact information.
 
 **Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
----
-
-### 💼 Personal Portfolio — Developer Showcase
-
-> A modern developer portfolio showcasing technical skills, projects, experience, and contact information.
-
-**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -151,8 +153,7 @@
   />
 </p>
 
-
-
+---
 
 ## 🎯 Current Focus
 
