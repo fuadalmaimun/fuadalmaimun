@@ -33,20 +33,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:fuadmaymun0@gmail.com">
+  <a href="mailto:fuadmaymun0@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fuad-al-maimun-97ba42399" target="_blank">
+  <a href="https://www.linkedin.com/in/fuad-al-maimun-97ba42399" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/8801300725948" target="_blank">
+  <a href="https://wa.me/8801300725948" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/fuad.fuadalmaimun" target="_blank">
+  <a href="https://www.facebook.com/fuad.fuadalmaimun" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🚀 About Me
